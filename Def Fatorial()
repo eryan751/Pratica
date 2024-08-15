@@ -7,11 +7,6 @@ def fatorial(n, show=False):
     :param show: (opicional) Mostra a Conta ou Não.
     :return: Valor Fatorial de {n}
     Feito Pelo Guanabara
-
-
-
-
-
     """
     f = 1
     for c in range(n, 0, -1):

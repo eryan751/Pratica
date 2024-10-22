@@ -1,5 +1,3 @@
-Linguagem Utilizada Python
-
 def fatorial(n, show=False):
     """
     -> Calcula o Fatorial de um número
